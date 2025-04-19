@@ -908,7 +908,7 @@
                    
                  if((conf.DP).toLowerCase() === 'oui') {
                     let cmsg = `╔════◇
-    ║ BLADE° MD』
+    ║ PROD° MD』
     ║    Prefix : [ ${prefixe} ]
     ║    Mode :${md}
     ║    Nombre total de Commandes : ${evt.cm.length}︎
