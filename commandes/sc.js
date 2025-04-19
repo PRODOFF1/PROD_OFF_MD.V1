@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*BLADE MD IMPORTANT INFO* 
+*PROD_OFF_MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Bladehack1/BLADE-XMD-V2.1.0
+> https://github.com/PRODOFF1/PROD_OFF_MD.V1
 
 *WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
+> https://chat.whatsapp.com/LM0IYYWdQY9GszNOjGdeIP
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *mr blade*
-│❒⁠⁠⁠⁠ *DEV2* : *mr anyway*
+│❒⁠⁠⁠⁠ *DEV1* : *Mr professor prod*
+│❒⁠⁠⁠⁠ *DEV2* : *Mr blade*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *blade Tech*
+     *professor prod*
 
 ❒────────────────────❒`;
 
