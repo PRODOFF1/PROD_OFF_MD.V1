@@ -3,20 +3,20 @@
   
 
 
-<p align="center">                                                  𝗕𝗟𝗔𝗗𝗘 𝗫𝗠𝗗-𝗩2
+<p align="center">                                                  𝗣𝗥𝗢𝗗_𝗢𝗙𝗙_𝗠𝗗.𝗩1
   
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vb3h64f1NCrMBksGl826">
-    <img alt=Support height="390" src="https://files.catbox.moe/hqruho.jpg"> 
+  <a href="https://whatsapp.com/channel/0029Vb2APDa002TAzna42b3s">
+    <img alt=Support height="390" src="https://files.catbox.moe/f3ft17.jpg"> 
     </p>
  
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BLADE-MD+MADE+IN+DR+CONGO+🇨🇩🥰🇨🇩" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+PROD-OFF-MD+MADE+IN+DR+CONGO+🇨🇩🇨🇩-BY-PROD-PFF-HACK" alt="Typing SVG" /></a>
 
 
 
