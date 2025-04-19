@@ -32,7 +32,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     // Bot information header
     let infoMsg = `
 ╭──────────────────❂
-┊❂╭───*𝐁𝐋𝐀𝐃𝐄-𝐗𝐌𝐃*────❂
+┊❂╭───*𝗣𝗥𝗢𝗗_𝗢𝗙𝗙_𝗠𝗗*────❂
 ┊✺┊ *User* : ${s.OWNER_NAME}
 ┊✺┊ *Mode* : ${mode}
 ┊✺╰───────────────❂
@@ -43,7 +43,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
     // Command list
     let menuMsg = `  
-  **𝐁𝐋𝐀𝐃𝐄-𝐗𝐌𝐃 COMMANDS*
+  *𝗣𝗥𝗢𝗗_𝗢𝗙𝗙_𝗠𝗗 COMMANDS*
 `;
 
     for (const cat in coms) {
@@ -60,7 +60,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *𝐁𝐋𝐀𝐃𝐄-𝐗𝐌𝐃*                                         
+  *𝗣𝗥𝗢𝗗_𝗢𝗙𝗙_𝗠𝗗*                                         
 *╰═════════════❂*
 `;
 
