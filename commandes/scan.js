@@ -48,12 +48,21 @@ const date = moment().format('DD/MM/YYYY');
  4. Tap on that notification then enter in the code that Ibrahim tech sent you.
  5. It will load for sometime then Ibrahim tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
+
+ Voici la traduction en français :
+
+1. *Ouvrez le lien*  
+2. *Entrez votre numéro WhatsApp avec l'indicatif de votre pays* (ex. : 243, 255), puis appuyez sur *Envoyer*  
+3. *Ibrahim Tech vous enverra un code.* Copiez ce code. Ensuite, WhatsApp vous enverra une *notification*  
+4. *Appuyez sur la notification*, puis entrez le code qu’Ibrahim Tech vous a envoyé  
+5. *Cela chargera pendant un moment*, puis Ibrahim Tech vous enverra une *longue session* dans votre propre boîte de réception WhatsApp  
+6. *Copiez cette longue session* et *envoyez-la à votre déployeur*
  
  🚘🚘🚘
  `;
     
 let menuMsg = `
-> Made by : ©Ibrahim Adams 
+> Made by : ©prod off hack
 `;
 
    var lien = mybotpic();
